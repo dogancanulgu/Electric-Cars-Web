@@ -5,6 +5,14 @@ body {
     text-align: center;
 
 }
+header {
+    padding-bottom: 20px;
+}
+header h1 {
+    color:blue;
+    text-size-adjust: 50px;
+}
+
 
 ul {
     list-style-type: none;
@@ -12,4 +20,8 @@ ul {
 
 img {
     width: 60%;
+}
+
+.plugmap {
+    margin: auto;
 }
