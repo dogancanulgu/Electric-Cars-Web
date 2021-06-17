@@ -12,6 +12,9 @@ header h1 {
     color:blue;
     text-size-adjust: 50px;
 }
+header nav a {
+    padding-right: 10px ;
+}
 
 
 ul {
